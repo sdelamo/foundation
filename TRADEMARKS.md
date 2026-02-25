@@ -45,6 +45,7 @@ The Commonhaus Foundation uses the following unregistered trademarks:
 - Jackson &trade; [^1]
 - Kroxylicious &trade;
 - Morphia &trade; [^1]
+- [Micronaut] &trade; [^1]
 - OpenFeign &trade; [^1]
 - Quarkus &trade;
     - Quarkus AI &trade;
@@ -101,6 +102,10 @@ The Commonhaus Foundation uses the following unregistered trademarks:
     <img src="https://jreleaser.org/images/jreleaser-duke.png" alt="" height="30" />[^2]
 - Kroxylicious Logo  
     <img src="https://kroxylicious.io/assets/theme/images/kroxylicious_logo_rgb_hori_default.svg" alt="" height="30" />
+- Micronaut Logo [^1]
+- <img src="https://raw.githubusercontent.com/micronaut-projects/brand/04a024b9a5218f0100be4a593807e9b43dc2032d/micronaut_horizontal_black.svg?raw=true" alt="" height="30" />
+- <img src="https://github.com/micronaut-projects/brand/blob/main/micronaut_stacked_black.svg?raw=true" alt="" height="30" />
+
 - Morphia Logo [^1]  
     <img src="https://github.com/MorphiaOrg/morphia-docs/blob/master/supplemental-ui/img/logo.png?raw=true" alt="" height="30" />
 - Quarkus:
@@ -175,6 +180,8 @@ The Commonhaus Foundation uses the following unregistered trademarks:
 | HIBERNATE    | TR      | 2007 37592    |
 | HIBERNATE    | ZA      | 2006/02536    |
 | HIBERNATE    | ZA      | 2006/02535    |
+
+## Micronaut Trademarks
 
 ## Wildfly Trademarks
 
